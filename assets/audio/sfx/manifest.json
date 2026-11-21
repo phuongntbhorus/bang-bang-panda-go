@@ -1,0 +1,924 @@
+{
+  "sfx_gun_pistol_fire_01": {
+    "id": "SFX-01",
+    "file": "sfx/sfx_gun_pistol_fire_01.mp4",
+    "duration": 0.447,
+    "samples": 19713,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_pistol_fire_01.mp3",
+    "refDb": -13.1
+  },
+  "sfx_gun_pistol_fire_02": {
+    "id": "SFX-01",
+    "file": "sfx/sfx_gun_pistol_fire_02.mp4",
+    "duration": 0.453,
+    "samples": 19985,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_pistol_fire_02.mp3",
+    "refDb": -13.1
+  },
+  "sfx_gun_pistol_fire_03": {
+    "id": "SFX-01",
+    "file": "sfx/sfx_gun_pistol_fire_03.mp4",
+    "duration": 0.463,
+    "samples": 20440,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_pistol_fire_03.mp3",
+    "refDb": -13.1
+  },
+  "sfx_gun_rifle_fire_01": {
+    "id": "SFX-03",
+    "file": "sfx/sfx_gun_rifle_fire_01.mp4",
+    "duration": 0.589,
+    "samples": 25954,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_rifle_fire_01.mp3",
+    "refDb": -13.8
+  },
+  "sfx_gun_rifle_fire_02": {
+    "id": "SFX-03",
+    "file": "sfx/sfx_gun_rifle_fire_02.mp4",
+    "duration": 0.559,
+    "samples": 24663,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_rifle_fire_02.mp3",
+    "refDb": -13.8
+  },
+  "sfx_gun_rifle_fire_03": {
+    "id": "SFX-03",
+    "file": "sfx/sfx_gun_rifle_fire_03.mp4",
+    "duration": 0.604,
+    "samples": 26620,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_rifle_fire_03.mp3",
+    "refDb": -13.8
+  },
+  "sfx_gun_shotgun_fire_01": {
+    "id": "SFX-04",
+    "file": "sfx/sfx_gun_shotgun_fire_01.mp4",
+    "duration": 0.529,
+    "samples": 23323,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_shotgun_shot_01.mp3",
+    "refDb": -13.3
+  },
+  "sfx_gun_shotgun_fire_02": {
+    "id": "SFX-04",
+    "file": "sfx/sfx_gun_shotgun_fire_02.mp4",
+    "duration": 0.629,
+    "samples": 27726,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_shotgun_shot_02.mp3",
+    "refDb": -13.3
+  },
+  "sfx_gun_shotgun_fire_03": {
+    "id": "SFX-04",
+    "file": "sfx/sfx_gun_shotgun_fire_03.mp4",
+    "duration": 0.457,
+    "samples": 20162,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_shotgun_shot_03.mp3",
+    "refDb": -13.3
+  },
+  "sfx_gun_sniper_fire_01": {
+    "id": "SFX-05",
+    "file": "sfx/sfx_gun_sniper_fire_01.mp4",
+    "duration": 1.188,
+    "samples": 52385,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_sniper_fire_01.mp3",
+    "refDb": -12.2
+  },
+  "sfx_gun_sniper_fire_02": {
+    "id": "SFX-05",
+    "file": "sfx/sfx_gun_sniper_fire_02.mp4",
+    "duration": 1.277,
+    "samples": 56295,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_sniper_fire_02.mp3",
+    "refDb": -12.2
+  },
+  "sfx_gun_sniper_fire_03": {
+    "id": "SFX-05",
+    "file": "sfx/sfx_gun_sniper_fire_03.mp4",
+    "duration": 1.15,
+    "samples": 50728,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_sniper_fire_03.mp3",
+    "refDb": -12.2
+  },
+  "sfx_gun_grenade_launch_01": {
+    "id": "SFX-06",
+    "file": "sfx/sfx_gun_grenade_launch_01.mp4",
+    "duration": 0.972,
+    "samples": 42851,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_grenade_launcher_shot_01.mp3",
+    "refDb": -15.0
+  },
+  "sfx_gun_grenade_launch_02": {
+    "id": "SFX-06",
+    "file": "sfx/sfx_gun_grenade_launch_02.mp4",
+    "duration": 0.954,
+    "samples": 42085,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_grenade_launcher_shot_02.mp3",
+    "refDb": -15.0
+  },
+  "sfx_gun_grenade_launch_03": {
+    "id": "SFX-06",
+    "file": "sfx/sfx_gun_grenade_launch_03.mp4",
+    "duration": 1.086,
+    "samples": 47885,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_grenade_launcher_shot_03.mp3",
+    "refDb": -15.0
+  },
+  "sfx_gun_missile_launch_01": {
+    "id": "SFX-07",
+    "file": "sfx/sfx_gun_missile_launch_01.mp4",
+    "duration": 1.27,
+    "samples": 55989,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_missile_launch_01.mp3",
+    "refDb": -19.5
+  },
+  "sfx_gun_missile_launch_02": {
+    "id": "SFX-07",
+    "file": "sfx/sfx_gun_missile_launch_02.mp4",
+    "duration": 1.278,
+    "samples": 56340,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_missile_launch_02.mp3",
+    "refDb": -19.5
+  },
+  "sfx_gun_missile_launch_03": {
+    "id": "SFX-07",
+    "file": "sfx/sfx_gun_missile_launch_03.mp4",
+    "duration": 1.258,
+    "samples": 55485,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_missile_launch_03.mp3",
+    "refDb": -19.5
+  },
+  "sfx_gun_ricochet_fire_01": {
+    "id": "SFX-08",
+    "file": "sfx/sfx_gun_ricochet_fire_01.mp4",
+    "duration": 0.683,
+    "samples": 30107,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_ricochet_fire_01.mp3",
+    "refDb": -19.0
+  },
+  "sfx_gun_ricochet_fire_02": {
+    "id": "SFX-08",
+    "file": "sfx/sfx_gun_ricochet_fire_02.mp4",
+    "duration": 0.683,
+    "samples": 30131,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_ricochet_fire_02.mp3",
+    "refDb": -19.0
+  },
+  "sfx_gun_ricochet_fire_03": {
+    "id": "SFX-08",
+    "file": "sfx/sfx_gun_ricochet_fire_03.mp4",
+    "duration": 0.686,
+    "samples": 30274,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_ricochet_fire_03.mp3",
+    "refDb": -19.0
+  },
+  "sfx_gun_laser_fire_01": {
+    "id": "SFX-09",
+    "file": "sfx/sfx_gun_laser_fire_01.mp4",
+    "duration": 0.471,
+    "samples": 20786,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_laser_fire_01.mp3",
+    "refDb": -16.4
+  },
+  "sfx_gun_laser_fire_02": {
+    "id": "SFX-09",
+    "file": "sfx/sfx_gun_laser_fire_02.mp4",
+    "duration": 0.468,
+    "samples": 20653,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_laser_fire_02.mp3",
+    "refDb": -16.4
+  },
+  "sfx_gun_laser_fire_03": {
+    "id": "SFX-09",
+    "file": "sfx/sfx_gun_laser_fire_03.mp4",
+    "duration": 0.501,
+    "samples": 22104,
+    "loop": false,
+    "source": "Gun shot/sfx_gun_laser_fire_03.mp3",
+    "refDb": -16.4
+  },
+  "sfx_gun_gatling_loop": {
+    "id": "SFX-10",
+    "file": "sfx/sfx_gun_gatling_loop.mp4",
+    "duration": 1.202,
+    "samples": 53005,
+    "loop": true,
+    "source": "Gun shot/sfx_gun_gatling_loop.ogg",
+    "refDb": -22.5
+  },
+  "sfx_log_hit_big_01": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_big_01.mp4",
+    "duration": 0.384,
+    "samples": 16954,
+    "loop": false,
+    "source": "Log/sfx_log_hit_big_01.mp3",
+    "refDb": -19.8
+  },
+  "sfx_log_hit_big_02": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_big_02.mp4",
+    "duration": 0.325,
+    "samples": 14339,
+    "loop": false,
+    "source": "Log/sfx_log_hit_big_02.mp3",
+    "refDb": -19.8
+  },
+  "sfx_log_hit_big_03": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_big_03.mp4",
+    "duration": 0.438,
+    "samples": 19295,
+    "loop": false,
+    "source": "Log/sfx_log_hit_big_03.mp3",
+    "refDb": -19.8
+  },
+  "sfx_log_hit_mid_01": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_mid_01.mp4",
+    "duration": 0.3,
+    "samples": 13233,
+    "loop": false,
+    "source": "Log/sfx_log_hit_mid_01.mp3",
+    "refDb": -20.7
+  },
+  "sfx_log_hit_mid_02": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_mid_02.mp4",
+    "duration": 0.349,
+    "samples": 15397,
+    "loop": false,
+    "source": "Log/sfx_log_hit_mid_02.mp3",
+    "refDb": -20.7
+  },
+  "sfx_log_hit_mid_03": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_mid_03.mp4",
+    "duration": 0.309,
+    "samples": 13642,
+    "loop": false,
+    "source": "Log/sfx_log_hit_mid_03.mp3",
+    "refDb": -20.7
+  },
+  "sfx_log_hit_small_01": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_small_01.mp4",
+    "duration": 0.13,
+    "samples": 5741,
+    "loop": false,
+    "source": "Log/sfx_log_hit_small_01.mp3",
+    "refDb": -21.0
+  },
+  "sfx_log_hit_small_02": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_small_02.mp4",
+    "duration": 0.151,
+    "samples": 6670,
+    "loop": false,
+    "source": "Log/sfx_log_hit_small_02.mp3",
+    "refDb": -21.0
+  },
+  "sfx_log_hit_small_03": {
+    "id": "SFX-12",
+    "file": "sfx/sfx_log_hit_small_03.mp4",
+    "duration": 0.15,
+    "samples": 6636,
+    "loop": false,
+    "source": "Log/sfx_log_hit_small_03.mp3",
+    "refDb": -21.0
+  },
+  "sfx_log_crack_01": {
+    "id": "SFX-13",
+    "file": "sfx/sfx_log_crack_01.mp4",
+    "duration": 0.328,
+    "samples": 14476,
+    "loop": false,
+    "source": "Log/sfx_log_crack_01.mp3",
+    "refDb": -19.6
+  },
+  "sfx_log_crack_02": {
+    "id": "SFX-13",
+    "file": "sfx/sfx_log_crack_02.mp4",
+    "duration": 0.329,
+    "samples": 14516,
+    "loop": false,
+    "source": "Log/sfx_log_crack_02.mp3",
+    "refDb": -19.6
+  },
+  "sfx_log_crack_03": {
+    "id": "SFX-13",
+    "file": "sfx/sfx_log_crack_03.mp4",
+    "duration": 0.432,
+    "samples": 19068,
+    "loop": false,
+    "source": "Log/sfx_log_crack_03.mp3",
+    "refDb": -19.6
+  },
+  "sfx_log_break_t0_01": {
+    "id": "SFX-14",
+    "file": "sfx/sfx_log_break_t0_01.mp4",
+    "duration": 0.669,
+    "samples": 29519,
+    "loop": false,
+    "source": "Log/sfx_log_break_t3_01.mp3",
+    "refDb": -14.7
+  },
+  "sfx_log_break_t0_02": {
+    "id": "SFX-14",
+    "file": "sfx/sfx_log_break_t0_02.mp4",
+    "duration": 0.539,
+    "samples": 23769,
+    "loop": false,
+    "source": "Log/sfx_log_break_t3_02.mp3",
+    "refDb": -14.7
+  },
+  "sfx_log_break_t1_01": {
+    "id": "SFX-14",
+    "file": "sfx/sfx_log_break_t0_01.mp4",
+    "duration": 0.669,
+    "samples": 29519,
+    "loop": false,
+    "source": "= sfx_log_break_t0_01",
+    "refDb": -14.7
+  },
+  "sfx_log_break_t1_02": {
+    "id": "SFX-14",
+    "file": "sfx/sfx_log_break_t0_02.mp4",
+    "duration": 0.539,
+    "samples": 23769,
+    "loop": false,
+    "source": "= sfx_log_break_t0_02",
+    "refDb": -14.7
+  },
+  "sfx_log_break_t2_01": {
+    "id": "SFX-14",
+    "file": "sfx/sfx_log_break_t2_01.mp4",
+    "duration": 0.463,
+    "samples": 20431,
+    "loop": false,
+    "source": "Log/sfx_log_break_t2_01.mp3",
+    "refDb": -16.3
+  },
+  "sfx_log_break_t2_02": {
+    "id": "SFX-14",
+    "file": "sfx/sfx_log_break_t2_02.mp4",
+    "duration": 0.453,
+    "samples": 19983,
+    "loop": false,
+    "source": "Log/sfx_log_break_t2_02.mp3",
+    "refDb": -16.3
+  },
+  "sfx_log_break_t3_01": {
+    "id": "SFX-14",
+    "file": "sfx/sfx_log_break_t2_01.mp4",
+    "duration": 0.463,
+    "samples": 20431,
+    "loop": false,
+    "source": "= sfx_log_break_t2_01",
+    "refDb": -16.3
+  },
+  "sfx_log_break_t3_02": {
+    "id": "SFX-14",
+    "file": "sfx/sfx_log_break_t2_02.mp4",
+    "duration": 0.453,
+    "samples": 19983,
+    "loop": false,
+    "source": "= sfx_log_break_t2_02",
+    "refDb": -16.3
+  },
+  "sfx_explosion_01": {
+    "id": "SFX-18",
+    "file": "sfx/sfx_explosion_01.mp4",
+    "duration": 1.0,
+    "samples": 44106,
+    "loop": false,
+    "source": "densmash & explosion/sfx_explosion_01.mp3",
+    "refDb": -11.5
+  },
+  "sfx_explosion_02": {
+    "id": "SFX-18",
+    "file": "sfx/sfx_explosion_02.mp4",
+    "duration": 1.042,
+    "samples": 45953,
+    "loop": false,
+    "source": "densmash & explosion/sfx_explosion_02.mp3",
+    "refDb": -11.5
+  },
+  "sfx_explosion_03": {
+    "id": "SFX-18",
+    "file": "sfx/sfx_explosion_03.mp4",
+    "duration": 1.168,
+    "samples": 51488,
+    "loop": false,
+    "source": "densmash & explosion/sfx_explosion_03.mp3",
+    "refDb": -11.5
+  },
+  "sfx_ricochet_ping": {
+    "id": "SFX-19",
+    "file": "sfx/sfx_ricochet_ping.mp4",
+    "duration": 0.669,
+    "samples": 29504,
+    "loop": false,
+    "source": "Gun shot/sfx_ricochet_ping.mp3",
+    "refDb": -15.8
+  },
+  "sfx_den_smash_01": {
+    "id": "SFX-24",
+    "file": "sfx/sfx_den_smash_01.mp4",
+    "duration": 1.436,
+    "samples": 63328,
+    "loop": false,
+    "source": "densmash & explosion/sfx_den_smash_01.mp3",
+    "refDb": -12.9
+  },
+  "sfx_den_smash_02": {
+    "id": "SFX-24",
+    "file": "sfx/sfx_den_smash_02.mp4",
+    "duration": 1.287,
+    "samples": 56763,
+    "loop": false,
+    "source": "densmash & explosion/sfx_den_smash_02.mp3",
+    "refDb": -12.9
+  },
+  "amb_forest": {
+    "id": "SFX-25",
+    "file": "sfx/amb_forest.mp4",
+    "duration": 10.702,
+    "samples": 471960,
+    "loop": true,
+    "source": "sfx_amb_forest.mp3",
+    "refDb": -32.0
+  },
+  "sfx_panda_dropin_01": {
+    "id": "SFX-28",
+    "file": "sfx/sfx_panda_dropin_01.mp4",
+    "duration": 1.368,
+    "samples": 60341,
+    "loop": false,
+    "source": "Panda/sfx_panda_dropin_01.mp3",
+    "refDb": -18.8
+  },
+  "sfx_panda_dropin_02": {
+    "id": "SFX-28",
+    "file": "sfx/sfx_panda_dropin_02.mp4",
+    "duration": 0.734,
+    "samples": 32373,
+    "loop": false,
+    "source": "Panda/sfx_panda_dropin_02.mp3",
+    "refDb": -18.8
+  },
+  "sfx_panda_hit_01": {
+    "id": "SFX-29",
+    "file": "sfx/sfx_panda_hit_01.mp4",
+    "duration": 0.808,
+    "samples": 35614,
+    "loop": false,
+    "source": "Panda/sfx_panda_hit_01.mp3",
+    "refDb": -13.8
+  },
+  "sfx_panda_hit_02": {
+    "id": "SFX-29",
+    "file": "sfx/sfx_panda_hit_02.mp4",
+    "duration": 0.909,
+    "samples": 40068,
+    "loop": false,
+    "source": "Panda/sfx_panda_hit_02.mp3",
+    "refDb": -13.8
+  },
+  "sfx_panda_hit_03": {
+    "id": "SFX-29",
+    "file": "sfx/sfx_panda_hit_03.mp4",
+    "duration": 1.078,
+    "samples": 47518,
+    "loop": false,
+    "source": "Panda/sfx_panda_hit_03.mp3",
+    "refDb": -13.8
+  },
+  "sfx_bump_pop_01": {
+    "id": "SFX-33",
+    "file": "sfx/sfx_bump_pop_01.mp4",
+    "duration": 0.255,
+    "samples": 11246,
+    "loop": false
+  },
+  "sfx_bump_pop_02": {
+    "id": "SFX-33",
+    "file": "sfx/sfx_bump_pop_02.mp4",
+    "duration": 0.255,
+    "samples": 11246,
+    "loop": false
+  },
+  "sfx_boss_warning": {
+    "id": "SFX-36",
+    "file": "sfx/sfx_boss_warning.mp4",
+    "duration": 2.45,
+    "samples": 108024,
+    "loop": false,
+    "source": "Boss/sfx_boss_warning.mp3",
+    "refDb": -8.4
+  },
+  "vo_boss_big-lumberjack_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_big-lumberjack_roar.mp4",
+    "duration": 1.757,
+    "samples": 77498,
+    "loop": false,
+    "source": "Boss/vo_boss_big-lumberjack_roar.mp3",
+    "refDb": -19.0
+  },
+  "vo_boss_bulldozer-boar_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_bulldozer-boar_roar.mp4",
+    "duration": 1.6,
+    "samples": 70560,
+    "loop": false
+  },
+  "vo_boss_chief-beaver_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_chief-beaver_roar.mp4",
+    "duration": 1.5,
+    "samples": 66150,
+    "loop": false
+  },
+  "vo_boss_fire-fox_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_fire-fox_roar.mp4",
+    "duration": 1.6,
+    "samples": 70560,
+    "loop": false
+  },
+  "vo_boss_grumpy-stump_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_grumpy-stump_roar.mp4",
+    "duration": 1.535,
+    "samples": 67714,
+    "loop": false,
+    "source": "Boss/vo_boss_grumpy-stump_roar.mp3",
+    "refDb": -16.9
+  },
+  "vo_boss_log-crusher_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_log-crusher_roar.mp4",
+    "duration": 2.405,
+    "samples": 106065,
+    "loop": false,
+    "source": "Boss/vo_boss_Log-crusher_roar.mp3",
+    "refDb": -16.0
+  },
+  "vo_boss_masked-raccoon_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_masked-raccoon_roar.mp4",
+    "duration": 1.5,
+    "samples": 66150,
+    "loop": false
+  },
+  "vo_boss_moss-golem_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_moss-golem_roar.mp4",
+    "duration": 1.65,
+    "samples": 72765,
+    "loop": false
+  },
+  "vo_boss_swamp-croc_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_swamp-croc_roar.mp4",
+    "duration": 1.7,
+    "samples": 74970,
+    "loop": false
+  },
+  "vo_boss_timber-moose_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_timber-moose_roar.mp4",
+    "duration": 2.292,
+    "samples": 101071,
+    "loop": false,
+    "source": "Boss/vo_boss_timber-moose_roar.mp3",
+    "refDb": -16.3
+  },
+  "vo_boss_toadstool-toad_roar": {
+    "id": "SFX-37",
+    "file": "sfx/vo_boss_toadstool-toad_roar.mp4",
+    "duration": 2.374,
+    "samples": 104709,
+    "loop": false,
+    "source": "Boss/vo_boss_toadstool-toad_roar.mp3",
+    "refDb": -16.8
+  },
+  "sfx_boss_near_den": {
+    "id": "SFX-40",
+    "file": "sfx/sfx_boss_near_den.mp4",
+    "duration": 2.025,
+    "samples": 89301,
+    "loop": false,
+    "source": "Boss/sfx_boss_near_den.mp3",
+    "refDb": -11.3
+  },
+  "sfx_boss_destroyed": {
+    "id": "SFX-41",
+    "file": "sfx/sfx_boss_destroyed.mp4",
+    "duration": 2.228,
+    "samples": 98244,
+    "loop": false,
+    "source": "Boss/sfx_boss_destroyed.mp3",
+    "refDb": -15.8
+  },
+  "vo_boss_big-lumberjack_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_big-lumberjack_defeat.mp4",
+    "duration": 0.9,
+    "samples": 39690,
+    "loop": false
+  },
+  "vo_boss_bulldozer-boar_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_bulldozer-boar_defeat.mp4",
+    "duration": 1.4,
+    "samples": 61740,
+    "loop": false
+  },
+  "vo_boss_chief-beaver_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_chief-beaver_defeat.mp4",
+    "duration": 1.5,
+    "samples": 66150,
+    "loop": false
+  },
+  "vo_boss_fire-fox_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_fire-fox_defeat.mp4",
+    "duration": 1.5,
+    "samples": 66150,
+    "loop": false
+  },
+  "vo_boss_grumpy-stump_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_grumpy-stump_defeat.mp4",
+    "duration": 0.85,
+    "samples": 37485,
+    "loop": false
+  },
+  "vo_boss_log-crusher_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_log-crusher_defeat.mp4",
+    "duration": 1.4,
+    "samples": 61740,
+    "loop": false
+  },
+  "vo_boss_masked-raccoon_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_masked-raccoon_defeat.mp4",
+    "duration": 1.4,
+    "samples": 61740,
+    "loop": false
+  },
+  "vo_boss_moss-golem_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_moss-golem_defeat.mp4",
+    "duration": 1.45,
+    "samples": 63945,
+    "loop": false
+  },
+  "vo_boss_swamp-croc_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_swamp-croc_defeat.mp4",
+    "duration": 1.5,
+    "samples": 66150,
+    "loop": false
+  },
+  "vo_boss_timber-moose_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_timber-moose_defeat.mp4",
+    "duration": 1.3,
+    "samples": 57330,
+    "loop": false
+  },
+  "vo_boss_toadstool-toad_defeat": {
+    "id": "SFX-41",
+    "file": "sfx/vo_boss_toadstool-toad_defeat.mp4",
+    "duration": 1.2,
+    "samples": 52920,
+    "loop": false
+  },
+  "sfx_coin_collect": {
+    "id": "SFX-43",
+    "file": "sfx/sfx_coin_collect.mp4",
+    "duration": 0.386,
+    "samples": 17001,
+    "loop": false,
+    "source": "sfx_coin_collect.mp3",
+    "refDb": -17.5
+  },
+  "sfx_reward_big": {
+    "id": "SFX-44",
+    "file": "sfx/sfx_reward_small.mp4",
+    "duration": 1.195,
+    "samples": 52712,
+    "loop": false,
+    "source": "= sfx_reward_small",
+    "refDb": -13.5
+  },
+  "sfx_reward_small": {
+    "id": "SFX-44",
+    "file": "sfx/sfx_reward_small.mp4",
+    "duration": 1.195,
+    "samples": 52712,
+    "loop": false,
+    "source": "sfx_reward.mp3",
+    "refDb": -13.5
+  },
+  "ui_upgrade_buy": {
+    "id": "SFX-46",
+    "file": "sfx/ui_upgrade_buy.mp4",
+    "duration": 0.781,
+    "samples": 34442,
+    "loop": false,
+    "source": "UI/sfx_ui_upgrade_buy.mp3",
+    "refDb": -18.4
+  },
+  "ui_deny": {
+    "id": "SFX-47",
+    "file": "sfx/ui_deny.mp4",
+    "duration": 0.653,
+    "samples": 28802,
+    "loop": false,
+    "source": "UI/sfx_ui_deny.mp3",
+    "refDb": -20.6
+  },
+  "ui_popup_close": {
+    "id": "SFX-49",
+    "file": "sfx/ui_popup_close.mp4",
+    "duration": 0.18,
+    "samples": 7919,
+    "loop": false,
+    "source": "UI/sfx_ui_popup_close.mp3",
+    "refDb": -22.2
+  },
+  "ui_popup_open": {
+    "id": "SFX-49",
+    "file": "sfx/ui_popup_open.mp4",
+    "duration": 0.203,
+    "samples": 8945,
+    "loop": false,
+    "source": "UI/sfx_ui_popup_open.mp3",
+    "refDb": -24.9
+  },
+  "ui_gun_pickup": {
+    "id": "SFX-50",
+    "file": "sfx/ui_gun_pickup.mp4",
+    "duration": 0.08,
+    "samples": 3528,
+    "loop": false
+  },
+  "ui_gun_place_01": {
+    "id": "SFX-51",
+    "file": "sfx/ui_gun_place_01.mp4",
+    "duration": 0.377,
+    "samples": 16605,
+    "loop": false,
+    "source": "UI/sfx_ui_gun_place.mp3",
+    "refDb": -20.8
+  },
+  "sfx_merge_01": {
+    "id": "SFX-53",
+    "file": "sfx/sfx_merge_01.mp4",
+    "duration": 0.671,
+    "samples": 29594,
+    "loop": false,
+    "source": "sfx_merge.mp3",
+    "refDb": -16.0
+  },
+  "sfx_merge_02": {
+    "id": "SFX-53",
+    "file": "sfx/sfx_merge_02.mp4",
+    "duration": 0.633,
+    "samples": 27919,
+    "loop": false,
+    "source": "sfx_merge.mp3 (pitch x1.06)",
+    "refDb": -16.0
+  },
+  "sfx_merge_03": {
+    "id": "SFX-53",
+    "file": "sfx/sfx_merge_03.mp4",
+    "duration": 0.599,
+    "samples": 26424,
+    "loop": false,
+    "source": "sfx_merge.mp3 (pitch x1.12)",
+    "refDb": -16.0
+  },
+  "sfx_chest_open_01": {
+    "id": "SFX-55",
+    "file": "sfx/sfx_chest_open_01.mp4",
+    "duration": 1.719,
+    "samples": 75817,
+    "loop": false,
+    "source": "sfx_chest_open.mp3",
+    "refDb": -18.2
+  },
+  "ui_click_01": {
+    "id": "SFX-58",
+    "file": "sfx/ui_click_01.mp4",
+    "duration": 0.11,
+    "samples": 4853,
+    "loop": false,
+    "source": "UI/sfx_ui_click.mp3",
+    "refDb": -21.9
+  },
+  "jingle_win": {
+    "id": "SFX-59",
+    "file": "sfx/jingle_win.mp4",
+    "duration": 2.14,
+    "samples": 94377,
+    "loop": false,
+    "source": "sfx_jingle_win.mp3",
+    "refDb": -15.6
+  },
+  "jingle_win_boss": {
+    "id": "SFX-59",
+    "file": "sfx/jingle_win.mp4",
+    "duration": 2.14,
+    "samples": 94377,
+    "loop": false,
+    "source": "= jingle_win",
+    "refDb": -15.6
+  },
+  "jingle_fail": {
+    "id": "SFX-60",
+    "file": "sfx/jingle_fail.mp4",
+    "duration": 2.226,
+    "samples": 98173,
+    "loop": false,
+    "source": "sfx_jingle_fail.mp3",
+    "refDb": -14.5
+  },
+  "jingle_game_clear": {
+    "id": "SFX-63",
+    "file": "sfx/jingle_game_clear.mp4",
+    "duration": 2.533,
+    "samples": 111690,
+    "loop": false,
+    "source": "sfx_game_clear.mp3",
+    "refDb": -16.5
+  },
+  "sfx_rebuild_move": {
+    "id": "SFX-67",
+    "file": "sfx/sfx_rebuild_move.mp4",
+    "duration": 0.843,
+    "samples": 37190,
+    "loop": false,
+    "source": "sfx_rebuild_move.mp3",
+    "refDb": -22.2
+  },
+  "sfx_firework_launch_01": {
+    "id": "SFX-68",
+    "file": "sfx/sfx_firework_launch_01.mp4",
+    "duration": 0.6,
+    "samples": 26460,
+    "loop": false
+  },
+  "sfx_firework_launch_02": {
+    "id": "SFX-68",
+    "file": "sfx/sfx_firework_launch_02.mp4",
+    "duration": 0.6,
+    "samples": 26460,
+    "loop": false
+  },
+  "sfx_firework_burst_01": {
+    "id": "SFX-69",
+    "file": "sfx/sfx_firework_burst_01.mp4",
+    "duration": 1.1,
+    "samples": 48510,
+    "loop": false
+  },
+  "sfx_firework_burst_02": {
+    "id": "SFX-69",
+    "file": "sfx/sfx_firework_burst_02.mp4",
+    "duration": 1.1,
+    "samples": 48510,
+    "loop": false
+  },
+  "sfx_firework_burst_03": {
+    "id": "SFX-69",
+    "file": "sfx/sfx_firework_burst_03.mp4",
+    "duration": 1.1,
+    "samples": 48510,
+    "loop": false
+  }
+}

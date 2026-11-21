@@ -1,0 +1,66 @@
+{
+  "mus_title": {
+    "id": "MUS-01",
+    "file": "music/mus_title.mp4",
+    "duration": 31.99,
+    "samples": 1410776,
+    "loop": true,
+    "source": "BGM/bgm_title.ogg"
+  },
+  "mus_theme_bamboo-grove": {
+    "id": "MUS-02",
+    "file": "music/mus_theme_bamboo-grove.mp4",
+    "duration": 49.764,
+    "samples": 2194611,
+    "loop": true,
+    "source": "BGM/bgm_theme_bamboo-grove.ogg"
+  },
+  "mus_theme_maple-ridge": {
+    "id": "MUS-03",
+    "file": "music/mus_theme_maple-ridge.mp4",
+    "duration": 42.288,
+    "samples": 1864921,
+    "loop": true,
+    "source": "BGM/bgm_theme_maple-ridge.ogg"
+  },
+  "mus_theme_misty-pines": {
+    "id": "MUS-04",
+    "file": "music/mus_theme_misty-pines.mp4",
+    "duration": 79.438,
+    "samples": 3503194,
+    "loop": true,
+    "source": "BGM/bgm_theme_misty-pines.ogg"
+  },
+  "mus_theme_mushroom-hollow": {
+    "id": "MUS-05",
+    "file": "music/mus_theme_mushroom-hollow.mp4",
+    "duration": 63.053,
+    "samples": 2780632,
+    "loop": true,
+    "source": "BGM/bgm_theme_mushroom-hollow.ogg"
+  },
+  "mus_theme_ember-woods": {
+    "id": "MUS-06",
+    "file": "music/mus_theme_ember-woods.mp4",
+    "duration": 61.601,
+    "samples": 2716602,
+    "loop": true,
+    "source": "BGM/bgm_theme_ember-woods.ogg"
+  },
+  "mus_boss_intro": {
+    "id": "MUS-07",
+    "file": "music/mus_boss_intro.mp4",
+    "duration": 3.2,
+    "samples": 141120,
+    "loop": false,
+    "bpm": 150
+  },
+  "mus_boss_loop": {
+    "id": "MUS-07",
+    "file": "music/mus_boss_loop.mp4",
+    "duration": 51.2,
+    "samples": 2257920,
+    "loop": true,
+    "bpm": 150
+  }
+}
