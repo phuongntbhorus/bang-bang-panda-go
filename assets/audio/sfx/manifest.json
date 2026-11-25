@@ -407,28 +407,28 @@
   "sfx_explosion_01": {
     "id": "SFX-18",
     "file": "sfx/sfx_explosion_01.mp4",
-    "duration": 1.0,
-    "samples": 44106,
+    "duration": 0.994,
+    "samples": 43841,
     "loop": false,
-    "source": "densmash & explosion/sfx_explosion_01.mp3",
+    "source": "sfx_explosion_01.mp3",
     "refDb": -11.5
   },
   "sfx_explosion_02": {
     "id": "SFX-18",
     "file": "sfx/sfx_explosion_02.mp4",
-    "duration": 1.042,
-    "samples": 45953,
+    "duration": 0.957,
+    "samples": 42220,
     "loop": false,
-    "source": "densmash & explosion/sfx_explosion_02.mp3",
+    "source": "sfx_explosion_02.mp3",
     "refDb": -11.5
   },
   "sfx_explosion_03": {
     "id": "SFX-18",
     "file": "sfx/sfx_explosion_03.mp4",
-    "duration": 1.168,
-    "samples": 51488,
+    "duration": 0.772,
+    "samples": 34066,
     "loop": false,
-    "source": "densmash & explosion/sfx_explosion_03.mp3",
+    "source": "sfx_explosion_03.mp3",
     "refDb": -11.5
   },
   "sfx_ricochet_ping": {
@@ -747,10 +747,10 @@
   "ui_upgrade_buy": {
     "id": "SFX-46",
     "file": "sfx/ui_upgrade_buy.mp4",
-    "duration": 0.781,
-    "samples": 34442,
+    "duration": 0.762,
+    "samples": 33597,
     "loop": false,
-    "source": "UI/sfx_ui_upgrade_buy.mp3",
+    "source": "sfx_ui_upgrade_buy.mp3",
     "refDb": -18.4
   },
   "ui_deny": {
